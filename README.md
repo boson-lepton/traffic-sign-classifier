@@ -99,11 +99,11 @@ Test data was not augmented with jittered data.
 
 
 ## Test a Model on New Images
-[Test Images](https://github.com/boson-lepton/traffic-sign-classifier/blob/master/test/test1.png)
+![Test Images](https://github.com/boson-lepton/traffic-sign-classifier/blob/master/test/test1.png?raw=true)
 
 **80 KM sign** The classifier has misclassified this image. based on my understanding, it is beacuse of poor contrast. 
 
-[New Images](https://github.com/boson-lepton/traffic-sign-classifier/blob/master/test/test2.png)
+![New Images](https://github.com/boson-lepton/traffic-sign-classifier/blob/master/test/test2.png?raw=true)
 
 **Hand held stop sign** This image has been misclassified because the classfier hasn't seen anything like this during training.
                         The training samples have octagonal shaped stop signs. It's expected, I guess. 
